@@ -1,0 +1,6 @@
+{
+  "name": "SpendAI",
+  "description": "AI-powered personal expense tracker that automatically categorizes daily spending and delivers actionable financial insights.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
